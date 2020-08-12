@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently living in Shenzhen,China
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin,Go
 - 👯 I’m looking to collaborate on Meaningful project
 - 💬 Ask me about anything on https://github.com/zhaoweih/zhaoweih/issues
 - 📫 How to reach me: zhaoweihao.dev@gmail.com
